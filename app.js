@@ -68,7 +68,7 @@ const renderTable = (jobs) => {
       <td>${job.companyType}</td>
       <td>${job.size}</td>
       <td>${job.revenueConfidence}</td>
-      <td><a href="${job.link}" target="_blank" rel="noopener">Placeholder link</a></td>
+      <td><a href="${job.link}" target="_blank" rel="noopener">Open</a></td>
       <td>${job.fitRationale}</td>
       <td>${job.addedDate}</td>
     `;
