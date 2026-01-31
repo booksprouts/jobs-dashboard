@@ -1,0 +1,106 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Jobs Dashboard</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="bg-noise"></div>
+    <header class="hero">
+      <div class="hero-inner">
+        <p class="eyebrow">jobs radar</p>
+        <h1>Executive Engineering Roles</h1>
+        <p class="subhead">
+          A curated pulse of leadership openings with real signal. Updated daily from
+          placeholder data until you swap in your own pipeline.
+        </p>
+        <div class="hero-meta">
+          <span class="badge" id="newBadge">New since yesterday: 0</span>
+          <span class="badge ghost" id="totalCount">Total roles: 0</span>
+        </div>
+      </div>
+    </header>
+
+    <main class="layout">
+      <section class="panel filters" aria-label="Filters">
+        <div class="filters-header">
+          <h2>Filters</h2>
+          <button class="button ghost" id="resetFilters">Reset</button>
+        </div>
+        <div class="filters-grid">
+          <label>
+            <span>Keyword</span>
+            <input id="keywordFilter" type="text" placeholder="Search title, company, rationale" />
+          </label>
+          <label>
+            <span>Location</span>
+            <select id="locationFilter">
+              <option value="any">Any</option>
+              <option value="bay area">Bay Area</option>
+              <option value="remote">Remote</option>
+            </select>
+          </label>
+          <label>
+            <span>Role type</span>
+            <select id="roleFilter">
+              <option value="any">Any</option>
+              <option value="cto">CTO</option>
+              <option value="vp eng">VP Eng</option>
+              <option value="head eng">Head Eng</option>
+              <option value="platform">Platform</option>
+              <option value="data">Data</option>
+            </select>
+          </label>
+          <label>
+            <span>Company type</span>
+            <select id="companyTypeFilter">
+              <option value="any">Any</option>
+              <option value="public">Public</option>
+              <option value="private">Private</option>
+            </select>
+          </label>
+        </div>
+      </section>
+
+      <section class="panel top-picks" aria-label="Top picks today">
+        <h2>Top picks today</h2>
+        <div id="topPicks" class="cards"></div>
+      </section>
+
+      <section class="panel table-panel" aria-label="Jobs table">
+        <div class="table-header">
+          <h2>All roles</h2>
+          <span class="muted" id="filteredCount">Showing 0 roles</span>
+        </div>
+        <div class="table-wrap">
+          <table>
+            <thead>
+              <tr>
+                <th>Company</th>
+                <th>Title</th>
+                <th>Location</th>
+                <th>Public or Private</th>
+                <th>Size</th>
+                <th>1B+ revenue confidence</th>
+                <th>Link</th>
+                <th>Fit rationale</th>
+                <th>Added date</th>
+              </tr>
+            </thead>
+            <tbody id="jobsTable"></tbody>
+          </table>
+        </div>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <p>
+        Placeholder dataset only. Replace <code>jobs.json</code> with real roles when ready.
+      </p>
+    </footer>
+
+    <script src="app.js"></script>
+  </body>
+</html>
