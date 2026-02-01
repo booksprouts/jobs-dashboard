@@ -1,0 +1,123 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Context Graph — visual explainer</title>
+    <link rel="stylesheet" href="styles.css" />
+    <meta name="description" content="A one-page interactive visual explainer: what a Context Graph is and why enterprise AI needs it." />
+  </head>
+  <body>
+    <header class="hero">
+      <div class="wrap">
+        <p class="eyebrow">enterprise ai · meaning layer</p>
+        <h1>Context Graph</h1>
+        <p class="subhead">
+          A <strong>Context Graph</strong> is your enterprise’s <strong>meaning layer</strong>: a governed map of
+          <em>entities + relationships + policies + decision traces</em> that makes AI reliable.
+        </p>
+        <div class="hero-grid">
+          <div class="callout">
+            <h2>Why it matters</h2>
+            <ul>
+              <li><strong>Without data, no context. Without context, AI fails.</strong></li>
+              <li>RAG can retrieve text; a Context Graph adds <strong>structure, constraints, lineage</strong>.</li>
+              <li>It makes AI <strong>auditable</strong>: “why was this allowed?” not just “what happened?”.</li>
+            </ul>
+          </div>
+          <div class="callout">
+            <h2>Two layers</h2>
+            <ol>
+              <li><strong>Operational context</strong>: identity, ownership, relationships, temporal state.</li>
+              <li><strong>Decision context</strong>: decision traces, policy versions, exceptions, approvals.</li>
+            </ol>
+            <p class="muted">Toggle layers below to see the difference.</p>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <main class="wrap">
+      <section class="panel">
+        <div class="panel-head">
+          <h2>Interactive graph</h2>
+          <div class="controls">
+            <label class="toggle">
+              <input id="toggleOperational" type="checkbox" checked />
+              <span>Operational context</span>
+            </label>
+            <label class="toggle">
+              <input id="toggleDecision" type="checkbox" checked />
+              <span>Decision traces</span>
+            </label>
+            <button id="reset" class="btn">Reset</button>
+          </div>
+        </div>
+        <p class="muted">
+          Click a node to focus. Hover edges to see relationship types. This is a toy example — in reality your
+          graph spans people, systems, documents, events, policies, and actions.
+        </p>
+        <div class="viz" id="viz">
+          <svg id="graph" role="img" aria-label="Context graph visualization"></svg>
+          <div class="legend">
+            <div class="legend-row"><span class="dot dot-data"></span> Data / content</div>
+            <div class="legend-row"><span class="dot dot-entity"></span> Enterprise entities</div>
+            <div class="legend-row"><span class="dot dot-policy"></span> Policies / controls</div>
+            <div class="legend-row"><span class="dot dot-decision"></span> Decision trace</div>
+            <div class="legend-row"><span class="dot dot-action"></span> Actions / workflows</div>
+          </div>
+        </div>
+      </section>
+
+      <section class="panel">
+        <h2>Concrete example: renewal exception</h2>
+        <p>
+          Imagine an AI agent proposing a <strong>20% renewal discount</strong> even though policy caps it at 10%.
+          A system of record might store only the outcome: “20% approved.”
+        </p>
+        <div class="two-col">
+          <div>
+            <h3>Without a Context Graph</h3>
+            <ul>
+              <li>No reliable grounding across systems (CRM, support tickets, incident history).</li>
+              <li>Hard to answer: <em>who approved</em>, under <em>which policy version</em>, and <em>why</em>.</li>
+              <li>Audits become expensive; scale becomes risky.</li>
+            </ul>
+          </div>
+          <div>
+            <h3>With a Context Graph</h3>
+            <ul>
+              <li>Agent retrieves <strong>facts + relationships</strong> (account tier, outage history, churn risk).</li>
+              <li>Evaluates <strong>policy v3.2</strong>, finds <strong>precedent</strong>, routes approval to Finance.</li>
+              <li>Writes back decision with <strong>trace + citations</strong> so it’s defensible and repeatable.</li>
+            </ul>
+          </div>
+        </div>
+        <p class="cite">
+          Sources (for context-graph framing):
+          <a href="https://www.opentext.com/aviator-ai/ai-data-platform" target="_blank" rel="noopener">OpenText AI Data Platform</a>,
+          <a href="https://airealizednow.substack.com/p/context-graphs-the-missing-layer" target="_blank" rel="noopener">Context graphs explainer (Substack)</a>,
+          <a href="https://www.graphlit.com/blog/context-layer-ai-agents-need" target="_blank" rel="noopener">Graphlit: context layer</a>.
+        </p>
+      </section>
+
+      <section class="panel">
+        <h2>How this ties to practical enterprise AI</h2>
+        <ul>
+          <li><strong>Outcomes &gt; demos:</strong> a Context Graph is what lets you run AI like a system (SLOs, audit trails, controls).</li>
+          <li><strong>Trust at scale:</strong> policies, entitlements, retention, and sovereignty become machine-enforceable constraints.</li>
+          <li><strong>Operational reality:</strong> AI succeeds when it knows ownership, relationships, and the "why" behind exceptions.</li>
+        </ul>
+      </section>
+
+      <footer class="footer">
+        <p class="muted">
+          Built as a single static page. Add your own enterprise entities and policies to match your org’s reality.
+        </p>
+      </footer>
+    </main>
+
+    <script src="https://cdn.jsdelivr.net/npm/d3@7/dist/d3.min.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>
