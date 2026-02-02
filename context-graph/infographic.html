@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Context Graph — Infographic</title>
+    <style>
+      body{margin:0;background:#f3efe7;font-family:system-ui,-apple-system,Segoe UI,Roboto,sans-serif;color:#111210}
+      .wrap{width:min(1100px,calc(100% - 40px));margin:0 auto;padding:26px 0}
+      .card{background:#fff9f0;border:1px solid #d7c7ae;border-radius:16px;padding:14px}
+      a{color:#d55b1f}
+      .row{display:flex;gap:12px;flex-wrap:wrap;align-items:center;justify-content:space-between}
+      .btn{display:inline-block;padding:10px 12px;border:1px solid #d7c7ae;border-radius:12px;background:#fff;text-decoration:none}
+      .btn:hover{border-color:#d55b1f}
+      .muted{color:#5a5a4e}
+      img,object{width:100%;height:auto;border-radius:14px;border:1px solid #d7c7ae;background:#fff}
+    </style>
+  </head>
+  <body>
+    <div class="wrap">
+      <div class="row">
+        <div>
+          <h1 style="margin:0 0 6px;">Context Graph — Infographic</h1>
+          <div class="muted">Single-file SVG you can drop into slides. Right-click to save.</div>
+        </div>
+        <div class="card">
+          <a class="btn" href="infographic.svg" download>Download SVG</a>
+        </div>
+      </div>
+
+      <div style="height:14px"></div>
+
+      <object data="infographic.svg" type="image/svg+xml" aria-label="Context Graph infographic"></object>
+
+      <p class="muted" style="margin-top:14px">Tip: if you want a PNG version for PowerPoint, tell me your preferred width (e.g., 2400px) and I’ll export it.</p>
+    </div>
+  </body>
+</html>

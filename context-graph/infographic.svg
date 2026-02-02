@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="900" viewBox="0 0 1400 900" role="img" aria-label="Context Graph infographic">
+  <defs>
+    <style>
+      .bg{fill:#f3efe7}
+      .card{fill:#fff9f0;stroke:#d7c7ae;stroke-width:2}
+      .ink{fill:#111210}
+      .muted{fill:#5a5a4e}
+      .title{font:700 56px system-ui,-apple-system,Segoe UI,Roboto,Space Grotesk,sans-serif}
+      .h2{font:700 22px system-ui,-apple-system,Segoe UI,Roboto,Space Grotesk,sans-serif}
+      .p{font:500 16px system-ui,-apple-system,Segoe UI,Roboto,Space Grotesk,sans-serif}
+      .small{font:500 13px system-ui,-apple-system,Segoe UI,Roboto,Space Grotesk,sans-serif}
+      .mono{font:600 12px ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace}
+      .pill{fill:#fff;stroke:#d7c7ae;stroke-width:2}
+      .accent{fill:#d55b1f}
+      .blue{fill:#3b82f6}
+      .green{fill:#22c55e}
+      .purple{fill:#a855f7}
+      .orange{fill:#f97316}
+      .black{fill:#111210}
+      .line{stroke:#bfb6a4;stroke-width:2}
+      .arrow{marker-end:url(#arrow)}
+    </style>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="9" markerHeight="9" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#bfb6a4"/>
+    </marker>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#111210" flood-opacity="0.12"/>
+    </filter>
+  </defs>
+
+  <rect class="bg" x="0" y="0" width="1400" height="900"/>
+
+  <!-- Header -->
+  <text class="title ink" x="70" y="95">Context Graph</text>
+  <text class="p muted" x="70" y="130">An enterprise <tspan font-weight="700">meaning layer</tspan> that makes AI practical: grounded, policy-aware, and auditable.</text>
+
+  <!-- Left: Inputs -->
+  <g filter="url(#shadow)">
+    <rect class="card" x="70" y="175" rx="18" ry="18" width="360" height="610"/>
+  </g>
+  <text class="h2 ink" x="95" y="220">Inputs (enterprise reality)</text>
+
+  <g>
+    <rect class="pill" x="95" y="250" rx="14" ry="14" width="310" height="66"/>
+    <circle cx="125" cy="283" r="10" class="green"/>
+    <text class="p ink" x="150" y="288">Entities</text>
+    <text class="small muted" x="150" y="308">people, accounts, systems, services</text>
+  </g>
+
+  <g>
+    <rect class="pill" x="95" y="332" rx="14" ry="14" width="310" height="66"/>
+    <circle cx="125" cy="365" r="10" class="blue"/>
+    <text class="p ink" x="150" y="370">Data + content</text>
+    <text class="small muted" x="150" y="390">docs, tickets, logs, contracts, metrics</text>
+  </g>
+
+  <g>
+    <rect class="pill" x="95" y="414" rx="14" ry="14" width="310" height="66"/>
+    <circle cx="125" cy="447" r="10" class="purple"/>
+    <text class="p ink" x="150" y="452">Policies + controls</text>
+    <text class="small muted" x="150" y="472">entitlements, retention, residency, audit</text>
+  </g>
+
+  <g>
+    <rect class="pill" x="95" y="496" rx="14" ry="14" width="310" height="66"/>
+    <circle cx="125" cy="529" r="10" class="orange"/>
+    <text class="p ink" x="150" y="534">Decision traces</text>
+    <text class="small muted" x="150" y="554">why/precedent/exceptions/approvals</text>
+  </g>
+
+  <text class="small muted" x="95" y="610">Key principle:</text>
+  <text class="p ink" x="95" y="635"><tspan font-weight="800">Without data, no context.</tspan></text>
+  <text class="p ink" x="95" y="658"><tspan font-weight="800">Without context, AI fails.</tspan></text>
+
+  <!-- Center: Graph -->
+  <g filter="url(#shadow)">
+    <rect class="card" x="480" y="175" rx="18" ry="18" width="440" height="610"/>
+  </g>
+  <text class="h2 ink" x="505" y="220">Context Graph (meaning layer)</text>
+  <text class="small muted" x="505" y="244">A governed graph of relationships + constraints + decision lineage.</text>
+
+  <!-- graph nodes -->
+  <g>
+    <!-- edges -->
+    <line class="line" x1="590" y1="355" x2="705" y2="310"/>
+    <line class="line" x1="590" y1="355" x2="705" y2="405"/>
+    <line class="line" x1="705" y1="310" x2="820" y2="355"/>
+    <line class="line" x1="705" y1="405" x2="820" y2="355"/>
+    <line class="line" x1="705" y1="310" x2="705" y2="500"/>
+    <line class="line" x1="705" y1="405" x2="705" y2="500"/>
+
+    <!-- nodes -->
+    <circle cx="590" cy="355" r="18" class="green"/>
+    <text class="small ink" x="560" y="385">Account</text>
+
+    <circle cx="705" cy="310" r="18" class="blue"/>
+    <text class="small ink" x="677" y="340">Ticket</text>
+
+    <circle cx="705" cy="405" r="18" class="blue"/>
+    <text class="small ink" x="667" y="435">Contract</text>
+
+    <circle cx="820" cy="355" r="18" class="purple"/>
+    <text class="small ink" x="792" y="385">Policy</text>
+
+    <circle cx="705" cy="500" r="18" class="orange"/>
+    <text class="small ink" x="648" y="530">Decision Trace</text>
+
+    <!-- labels -->
+    <text class="mono muted" x="540" y="285">relationships</text>
+    <text class="mono muted" x="540" y="305">+ versioned policy</text>
+    <text class="mono muted" x="540" y="325">+ provenance</text>
+    <text class="mono muted" x="540" y="345">+ time</text>
+  </g>
+
+  <g>
+    <rect x="505" y="585" rx="14" ry="14" width="390" height="160" fill="#fff" stroke="#d7c7ae" stroke-width="2"/>
+    <text class="h2 ink" x="525" y="620">What it enables</text>
+    <text class="p muted" x="525" y="650">• Grounding + citations</text>
+    <text class="p muted" x="525" y="675">• Policy-aware answers</text>
+    <text class="p muted" x="525" y="700">• Auditability (“why was this allowed?”)</text>
+    <text class="p muted" x="525" y="725">• Repeatable actions across teams</text>
+  </g>
+
+  <!-- Right: Outputs -->
+  <g filter="url(#shadow)">
+    <rect class="card" x="970" y="175" rx="18" ry="18" width="360" height="610"/>
+  </g>
+  <text class="h2 ink" x="995" y="220">Outputs (practical AI)</text>
+
+  <g>
+    <rect class="pill" x="995" y="250" rx="14" ry="14" width="310" height="78"/>
+    <circle cx="1025" cy="289" r="10" class="black"/>
+    <text class="p ink" x="1050" y="292">Assistants + agents</text>
+    <text class="small muted" x="1050" y="315">execute workflows safely</text>
+  </g>
+
+  <g>
+    <rect class="pill" x="995" y="342" rx="14" ry="14" width="310" height="78"/>
+    <circle cx="1025" cy="381" r="10" class="orange"/>
+    <text class="p ink" x="1050" y="384">Decision trace + precedent</text>
+    <text class="small muted" x="1050" y="407">explainable + replayable</text>
+  </g>
+
+  <g>
+    <rect class="pill" x="995" y="434" rx="14" ry="14" width="310" height="78"/>
+    <circle cx="1025" cy="473" r="10" class="purple"/>
+    <text class="p ink" x="1050" y="476">Trust at scale</text>
+    <text class="small muted" x="1050" y="499">governance · compliance · sovereignty</text>
+  </g>
+
+  <g>
+    <rect x="995" y="542" rx="16" ry="16" width="310" height="200" fill="#fff" stroke="#d7c7ae" stroke-width="2"/>
+    <text class="h2 ink" x="1015" y="575">Outcome frame</text>
+    <text class="p muted" x="1015" y="605">Outcomes &gt; demos:</text>
+    <text class="small muted" x="1015" y="630">• faster cycle time</text>
+    <text class="small muted" x="1015" y="650">• fewer policy violations</text>
+    <text class="small muted" x="1015" y="670">• lower audit cost</text>
+    <text class="small muted" x="1015" y="690">• safer automation at scale</text>
+    <text class="small muted" x="1015" y="720">(measured, repeatable)</text>
+  </g>
+
+  <!-- Flow arrows -->
+  <line class="line arrow" x1="440" y1="480" x2="470" y2="480"/>
+  <line class="line arrow" x1="930" y1="480" x2="960" y2="480"/>
+
+  <text class="small muted" x="446" y="465">connect + contextualize</text>
+  <text class="small muted" x="935" y="465">ground + govern + act</text>
+
+  <!-- Footer -->
+  <text class="small muted" x="70" y="845">Designed for a keynote-style explanation. Swap the example nodes to match your customer workflows (procurement, claims, maintenance, fraud, etc.).</text>
+</svg>
