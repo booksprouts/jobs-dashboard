@@ -1,18 +1,18 @@
 [
   {
-    "company": "National Life Insurance Company",
-    "title": "VP, Chief Technology Officer",
-    "location": "Addison, TX; Montpelier, VT",
+    "company": "Overstory",
+    "title": "Chief Technology Officer",
+    "location": "Remote (EU/US time zones)",
     "companyType": "Private",
-    "size": "1,001-5,000 (est.)",
-    "revenueConfidence": "High",
-    "link": "https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4139610009",
-    "shortDescription": "- Lead modernization of core insurance platforms and enterprise tech ecosystem.\n- Drive transformations in cloud, DevOps, analytics, ML, and AI across an 850+ IT org.\n- Define operating model, sourcing strategy, and innovation pipeline.\n- Align technology investments to business outcomes at enterprise scale.",
-    "fitRationale": "- Large-scale enterprise transformation aligns with your platform modernization track record.\n- Regulated industry and governance needs map to your trust-at-scale positioning.\n- AI-enabled modernization aligns with your secure information management themes.",
+    "size": "201-500 (est.)",
+    "revenueConfidence": "Low",
+    "link": "https://job-boards.greenhouse.io/overstory/jobs/4724552101",
+    "shortDescription": "- Lead and scale engineering across software, ML models, internal tools, and core platform.\n- Define the technical strategy to guide a fast-growth climate-tech company post–Series B.\n- Partner with product leadership to align roadmap with customer and utility needs.\n- Drive AI + remote-sensing product innovation for grid resiliency.",
+    "fitRationale": "- AI + data platform leadership aligns with your enterprise AI data platform focus.\n- Mission-critical infrastructure and risk management align with trust-at-scale themes.\n- Board-level CTO role matches your executive technology leadership profile.",
     "roleType": "Chief Technology Officer",
     "topPick": true,
-    "id": "gh_809e1b0b7dd0",
-    "addedDate": "2026-02-25"
+    "id": "gh_3b91a0ebb5db",
+    "addedDate": "2026-03-05"
   },
   {
     "company": "Visa",
@@ -27,7 +27,7 @@
     "roleType": "Chief Enterprise Architect (AI/ML)",
     "topPick": true,
     "id": "sr_07d166eb686c",
-    "addedDate": "2026-02-25"
+    "addedDate": "2026-03-05"
   },
   {
     "company": "GDIT (General Dynamics Information Technology)",
@@ -40,39 +40,9 @@
     "shortDescription": "- Lead architecture, engineering, interoperability, and data management for a federal EHR modernization program.\n- Define cloud architecture and technical roadmaps in a FedRAMP High Oracle Cloud environment.\n- Manage technical leads across cybersecurity, testing, and data domains.\n- Advise federal clients and ensure solutions align to enterprise standards and contracts.",
     "fitRationale": "- Large-scale, regulated modernization aligns with your governance and trust-at-scale focus.\n- Enterprise data and interoperability leadership fits your context-graph platform experience.\n- Executive architecture leadership mirrors your Chief Architect scope.",
     "roleType": "Chief Architect",
-    "topPick": true,
+    "topPick": false,
     "id": "wd_f2685896ad30",
-    "addedDate": "2026-02-27"
-  },
-  {
-    "company": "Civis Analytics",
-    "title": "Chief Technology Officer",
-    "location": "Remote (DC/IL/MD/NY/VA)",
-    "companyType": "Private",
-    "size": "201-500 (est.)",
-    "revenueConfidence": "Med",
-    "link": "https://job-boards.greenhouse.io/civisanalytics/jobs/7476351",
-    "shortDescription": "- Own the technical vision and roadmap across the Civis data platform and new AI products.\n- Lead architecture decisions spanning platform, data, and AI systems.\n- Serve as a player–coach, guiding teams toward AI-centric engineering practices.\n- Act as public-facing technology leader and partnership voice.",
-    "fitRationale": "- AI platform and data leadership align with your enterprise AI data platform narrative.\n- Cohesive platform + AI product strategy matches your context-graph positioning.\n- Strategic CTO role supports your executive leadership profile.",
-    "roleType": "Chief Technology Officer",
-    "topPick": false,
-    "id": "gh_04a9dada05f0",
-    "addedDate": "2026-02-27"
-  },
-  {
-    "company": "The Nuclear Company",
-    "title": "Chief Technology Officer",
-    "location": "Columbia, SC / Seattle, WA / Washington, DC / Reno, NV / Lexington, KY",
-    "companyType": "Private",
-    "size": "201-500 (est.)",
-    "revenueConfidence": "Med",
-    "link": "https://job-boards.greenhouse.io/thenuclearcompany/jobs/4896795008",
-    "shortDescription": "- Define technology vision, product architecture, and R&D priorities across hardware and software.\n- Build and scale engineering teams across nuclear, electrical, mechanical, and software domains.\n- Oversee product development from design and prototyping to production scaling.\n- Drive safety, reliability, and automation/robotics integration.",
-    "fitRationale": "- Safety- and compliance-heavy systems align with your governance and trust-at-scale themes.\n- Complex system-of-systems leadership mirrors your enterprise architecture background.\n- Large-scale transformation and platformization fit your CTO profile.",
-    "roleType": "Chief Technology Officer",
-    "topPick": false,
-    "id": "gh_60b3d821842b",
-    "addedDate": "2026-02-27"
+    "addedDate": "2026-03-05"
   },
   {
     "company": "Sony Interactive Entertainment (PlayStation)",
@@ -85,9 +55,9 @@
     "shortDescription": "- Define and execute the vision for SIE’s data and AI platform ecosystem.\n- Oversee streaming, ingestion, warehouse, and governance/observability platforms.\n- Ensure scalability, reliability, and cost efficiency for massive data volumes.\n- Lead global teams and drive AI/ML adoption across products.",
     "fitRationale": "- Enterprise-scale data platform leadership aligns with your context-graph strategy.\n- Governance, observability, and security focus map to your trust-at-scale theme.\n- AI/ML adoption at scale mirrors your AI data platform positioning.",
     "roleType": "Sr Director (Data Platform)",
-    "topPick": false,
+    "topPick": true,
     "id": "gh_c935429dc2c2",
-    "addedDate": "2026-02-25"
+    "addedDate": "2026-03-05"
   },
   {
     "company": "Deluxe Corporation",
@@ -102,7 +72,7 @@
     "roleType": "Chief Architect",
     "topPick": false,
     "id": "wd_defe176310a2",
-    "addedDate": "2026-02-25"
+    "addedDate": "2026-03-05"
   },
   {
     "company": "Center for Internet Security (CIS)",
@@ -117,36 +87,6 @@
     "roleType": "Chief Architect",
     "topPick": false,
     "id": "wd_d26c390cb21d",
-    "addedDate": "2026-02-27"
-  },
-  {
-    "company": "Banyan Software (Star-Trac)",
-    "title": "Chief Technology Officer",
-    "location": "Munich, Germany",
-    "companyType": "Private",
-    "size": "1,001-5,000 (est.)",
-    "revenueConfidence": "Med",
-    "link": "https://job-boards.greenhouse.io/banyansoftware/jobs/5008662007",
-    "shortDescription": "- Define technology vision and product strategy aligned with business goals.\n- Lead software development, QA, implementation consulting, and cloud delivery.\n- Drive innovation and cross-functional execution with parent company alignment.\n- Scale a secure, reliable industrial operations platform.",
-    "fitRationale": "- Enterprise software and platform modernization align with your CTO profile.\n- Cross-portfolio integration mirrors your context-graph and platform unification themes.\n- Emphasis on security and reliability fits your trust-at-scale positioning.",
-    "roleType": "Chief Technology Officer",
-    "topPick": false,
-    "id": "gh_505ae4ddd20b",
-    "addedDate": "2026-02-27"
-  },
-  {
-    "company": "MIO Partners",
-    "title": "Director, Head of Platform Engineering",
-    "location": "New York, NY (Hybrid)",
-    "companyType": "Private",
-    "size": "201-500 (est.)",
-    "revenueConfidence": "Low",
-    "link": "https://job-boards.greenhouse.io/miopartners/jobs/4982949008",
-    "shortDescription": "- Lead platform engineering and DevOps for cloud infrastructure and reliability.\n- Build CI/CD, IaC, monitoring, and security best practices across AWS/Azure.\n- Establish scalable, resilient enterprise platforms for financial services workloads.\n- Partner with business stakeholders to translate requirements into technical solutions.",
-    "fitRationale": "- Platform engineering leadership aligns with your enterprise platform scope.\n- Security, compliance, and resilience needs map to your trust-at-scale positioning.\n- Financial services context aligns with governance-heavy, data-centric environments.",
-    "roleType": "Director (Head of Platform Engineering)",
-    "topPick": false,
-    "id": "gh_aa1c7fa417cd",
-    "addedDate": "2026-02-26"
+    "addedDate": "2026-03-05"
   }
 ]
