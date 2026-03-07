@@ -12,7 +12,7 @@
     "roleType": "VP Engineering",
     "topPick": true,
     "id": "sr_a281487fee08",
-    "addedDate": "2026-03-06"
+    "addedDate": "2026-03-07"
   },
   {
     "company": "Strategy (MicroStrategy)",
@@ -27,7 +27,7 @@
     "roleType": "VP / Chief Architect",
     "topPick": true,
     "id": "sr_edb4543026d2",
-    "addedDate": "2026-03-06"
+    "addedDate": "2026-03-07"
   },
   {
     "company": "SimpliSafe",
@@ -42,82 +42,7 @@
     "roleType": "Sr Director (Data Platform)",
     "topPick": true,
     "id": "gh_57bf584956d7",
-    "addedDate": "2026-03-06"
-  },
-  {
-    "company": "Oura",
-    "title": "Senior Director, Data Management",
-    "location": "San Francisco, CA (Hybrid) or Remote (US)",
-    "companyType": "Private",
-    "size": "1,001-5,000 (est.)",
-    "revenueConfidence": "Med",
-    "link": "https://job-boards.greenhouse.io/oura/jobs/4116276009",
-    "shortDescription": "- Set vision and roadmap for end-to-end data lifecycle and data quality.\n- Lead data engineering and analytics teams; partner with senior leaders.\n- Operate a TB–PB lakehouse with governance, privacy, and residency controls.\n- Drive ML lifecycle and AI/LLM enablement with data products.",
-    "fitRationale": "- Governance, privacy, and residency align with trust-at-scale priorities.\n- Lakehouse and data products align with your context-graph platform thesis.\n- AI/ML enablement and cross-functional strategy fit enterprise AI leadership.",
-    "roleType": "Sr Director (Data Management)",
-    "topPick": false,
-    "id": "gh_32cba4fad30d",
-    "addedDate": "2026-03-06"
-  },
-  {
-    "company": "MIO Partners",
-    "title": "Director, Head of Platform Engineering",
-    "location": "New York, NY (Hybrid)",
-    "companyType": "Private",
-    "size": "201-500",
-    "revenueConfidence": "Med",
-    "link": "https://job-boards.greenhouse.io/miopartners/jobs/4982949008",
-    "shortDescription": "- Lead platform and cloud engineering with DevOps best practices.\n- Architect AWS/Azure infrastructure, CI/CD, IaC, and monitoring/alerting.\n- Ensure security, compliance, disaster recovery, and cost optimization.\n- Partner with app teams to standardize architectures and delivery.",
-    "fitRationale": "- Platform standardization and governance align with your enterprise leadership.\n- Security/compliance focus fits your trust-at-scale narrative.\n- Cloud modernization in financial services matches regulated enterprise experience.",
-    "roleType": "Director (Head of Platform Engineering)",
-    "topPick": false,
-    "id": "gh_aa1c7fa417cd",
-    "addedDate": "2026-03-06"
-  },
-  {
-    "company": "Overstory",
-    "title": "Chief Technology Officer",
-    "location": "Remote (EU/US time zones)",
-    "companyType": "Private",
-    "size": "201-500 (est.)",
-    "revenueConfidence": "Low",
-    "link": "https://job-boards.greenhouse.io/overstory/jobs/4724552101",
-    "shortDescription": "- Lead and scale engineering across software, ML models, internal tools, and core platform.\n- Define the technical strategy to guide a fast-growth climate-tech company post–Series B.\n- Partner with product leadership to align roadmap with customer and utility needs.\n- Drive AI + remote-sensing product innovation for grid resiliency.",
-    "fitRationale": "- AI + data platform leadership aligns with your enterprise AI data platform focus.\n- Mission-critical infrastructure and risk management align with trust-at-scale themes.\n- Board-level CTO role matches your executive technology leadership profile.",
-    "roleType": "Chief Technology Officer",
-    "topPick": false,
-    "id": "gh_3b91a0ebb5db",
-    "addedDate": "2026-03-05"
-  },
-  {
-    "company": "Visa",
-    "title": "Chief Enterprise Architect, AI/ML",
-    "location": "Bellevue, WA (Hybrid)",
-    "companyType": "Public",
-    "size": "10,001+",
-    "revenueConfidence": "High",
-    "link": "https://jobs.smartrecruiters.com/Visa/743999963402643-chief-enterprise-architect-ai-ml",
-    "shortDescription": "- Lead enterprise architecture for Visa’s GenAI/AI-ML roadmap within Value Added Services.\n- Drive cross-product architecture standards, patterns, and platform principles.\n- Guide data-driven frameworks, ML model architecture, and secure deployment topologies.\n- Mentor architecture leaders and ensure scalable, API-centric solutions.",
-    "fitRationale": "- Direct AI platform leadership aligns with your enterprise AI data platform focus.\n- Strong governance and security emphasis maps to your trust-at-scale narrative.\n- Cross-domain architecture leadership mirrors your Chief Architect scope.",
-    "roleType": "Chief Enterprise Architect (AI/ML)",
-    "topPick": false,
-    "id": "sr_07d166eb686c",
-    "addedDate": "2026-03-05"
-  },
-  {
-    "company": "GDIT (General Dynamics Information Technology)",
-    "title": "Chief Architect / Engineer",
-    "location": "Remote (US)",
-    "companyType": "Public",
-    "size": "10,001+",
-    "revenueConfidence": "High",
-    "link": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/any-location--remote/chief-architect---engineer_rq215613",
-    "shortDescription": "- Lead architecture, engineering, interoperability, and data management for a federal EHR modernization program.\n- Define cloud architecture and technical roadmaps in a FedRAMP High Oracle Cloud environment.\n- Manage technical leads across cybersecurity, testing, and data domains.\n- Advise federal clients and ensure solutions align to enterprise standards and contracts.",
-    "fitRationale": "- Large-scale, regulated modernization aligns with your governance and trust-at-scale focus.\n- Enterprise data and interoperability leadership fits your context-graph platform experience.\n- Executive architecture leadership mirrors your Chief Architect scope.",
-    "roleType": "Chief Architect",
-    "topPick": false,
-    "id": "wd_f2685896ad30",
-    "addedDate": "2026-03-05"
+    "addedDate": "2026-03-07"
   },
   {
     "company": "Sony Interactive Entertainment (PlayStation)",
@@ -132,21 +57,36 @@
     "roleType": "Sr Director (Data Platform)",
     "topPick": false,
     "id": "gh_c935429dc2c2",
-    "addedDate": "2026-03-05"
+    "addedDate": "2026-03-07"
   },
   {
-    "company": "Deluxe Corporation",
-    "title": "Chief Architect",
-    "location": "Atlanta, GA",
-    "companyType": "Public",
-    "size": "1,001-5,000",
-    "revenueConfidence": "High",
-    "link": "https://deluxe.wd5.myworkdayjobs.com/usa_can/job/Atlanta-GA-USA/Chief-Architect_251603WD",
-    "shortDescription": "- Lead enterprise architecture and define the next-gen payments platform blueprint.\n- Set technical direction, standards, and long-term architecture vision.\n- Lead and grow an architecture team; partner with product and engineering leaders.\n- Drive scalable, resilient, interoperable solutions across the payments business.",
-    "fitRationale": "- Payments and compliance focus aligns with your governance and trust-at-scale positioning.\n- Enterprise architecture leadership matches your Chief Architect profile.\n- Platform modernization scope fits your data/platform strategy experience.",
-    "roleType": "Chief Architect",
+    "company": "Overstory",
+    "title": "Chief Technology Officer",
+    "location": "Remote (EU/US time zones)",
+    "companyType": "Private",
+    "size": "201-500 (est.)",
+    "revenueConfidence": "Low",
+    "link": "https://job-boards.greenhouse.io/overstory/jobs/4724552101",
+    "shortDescription": "- Lead and scale engineering across software, ML models, internal tools, and core platform.\n- Define the technical strategy to guide a fast-growth climate-tech company post–Series B.\n- Partner with product leadership to align roadmap with customer and utility needs.\n- Drive AI + remote-sensing product innovation for grid resiliency.",
+    "fitRationale": "- AI + data platform leadership aligns with your enterprise AI data platform focus.\n- Mission-critical infrastructure and risk management align with trust-at-scale themes.\n- Board-level CTO role matches your executive technology leadership profile.",
+    "roleType": "Chief Technology Officer",
     "topPick": false,
-    "id": "wd_defe176310a2",
-    "addedDate": "2026-03-05"
+    "id": "gh_3b91a0ebb5db",
+    "addedDate": "2026-03-07"
+  },
+  {
+    "company": "Wizard",
+    "title": "Senior Director, Data Platform & Engineering",
+    "location": "Remote (USA)",
+    "companyType": "Private",
+    "size": "Unknown",
+    "revenueConfidence": "Low",
+    "link": "https://job-boards.greenhouse.io/wizardcommerce/jobs/5753768004",
+    "shortDescription": "- Own the design, evolution, and reliability of Wizard’s Spark-based data platform.\n- Set standards for correctness, performance, and cost efficiency across data systems.\n- Architect and review production PySpark pipelines and data quality frameworks.\n- Enable AI-driven personalization and ranking with scalable data infrastructure.",
+    "fitRationale": "- Data platform leadership with AI enablement maps to your enterprise AI focus.\n- Emphasis on reliability and data quality aligns with trust-at-scale positioning.\n- Hands-on architecture scope fits your chief architect + platform leadership profile.",
+    "roleType": "Sr Director (Data Platform)",
+    "topPick": false,
+    "id": "gh_0e573e828fe3",
+    "addedDate": "2026-03-07"
   }
 ]
