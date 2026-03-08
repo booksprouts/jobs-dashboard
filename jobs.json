@@ -30,6 +30,21 @@
     "addedDate": "2026-03-07"
   },
   {
+    "company": "Sony Interactive Entertainment (PlayStation)",
+    "title": "Senior Director, Data Engineering & Services",
+    "location": "London, UK",
+    "companyType": "Public",
+    "size": "10,001+",
+    "revenueConfidence": "High",
+    "link": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5694175004",
+    "shortDescription": "- Lead the data engineering strategy powering SIE’s connected data ecosystem.\n- Build AI-ready data products across player, partner, and enterprise domains.\n- Establish data quality, lineage, observability, and governed data access.\n- Drive cloud-native data platforms with security, privacy, and compliance.",
+    "fitRationale": "- Data product strategy and governance mirror your context-graph narrative.\n- Enterprise-scale platform leadership aligns with your AI data platform focus.\n- Strong compliance and privacy requirements fit your trust-at-scale positioning.",
+    "roleType": "Sr Director (Data Engineering)",
+    "topPick": true,
+    "id": "gh_0d0636f5dac2",
+    "addedDate": "2026-03-08"
+  },
+  {
     "company": "SimpliSafe",
     "title": "Senior Director, Data Platform Engineering",
     "location": "Boston, MA (Hybrid)",
@@ -40,7 +55,7 @@
     "shortDescription": "- Architect and operate a lakehouse/medallion data platform for analytics and AI/ML.\n- Build streaming and batch pipelines with reliability standards and SLAs.\n- Own the platform operating model, observability, and cost optimization.\n- Lead and scale a global data platform engineering team.",
     "fitRationale": "- Enterprise data platform leadership aligns with your AI data platform focus.\n- Reliability, governance, and SLAs map to your trust-at-scale positioning.\n- AI/ML enablement and real-time data pipelines fit your platform strategy experience.",
     "roleType": "Sr Director (Data Platform)",
-    "topPick": true,
+    "topPick": false,
     "id": "gh_57bf584956d7",
     "addedDate": "2026-03-07"
   },
@@ -60,6 +75,36 @@
     "addedDate": "2026-03-07"
   },
   {
+    "company": "Coupang",
+    "title": "Sr. Director - Backend Engineering (AI Infrastructure)",
+    "location": "Seoul, South Korea",
+    "companyType": "Public",
+    "size": "10,001+",
+    "revenueConfidence": "High",
+    "link": "https://job-boards.greenhouse.io/coupang/jobs/7361541",
+    "shortDescription": "- Define the long-term vision and roadmap for AI infrastructure orchestration.\n- Lead platform engineering teams building training-to-inference AI platforms.\n- Ensure reliability, security, and compliance for AI infrastructure services.\n- Establish SLOs/KPIs and optimize cost efficiency for AI compute.",
+    "fitRationale": "- Large-scale AI infrastructure leadership aligns with your enterprise AI platform focus.\n- Governance, compliance, and SLO ownership match your trust-at-scale positioning.\n- Platform orchestration scope parallels your architecture + platform leadership.",
+    "roleType": "Sr Director (Platform Engineering)",
+    "topPick": false,
+    "id": "gh_e18e0406adf7",
+    "addedDate": "2026-03-08"
+  },
+  {
+    "company": "BambooHR",
+    "title": "Chief Architect",
+    "location": "Utah (Hybrid)",
+    "companyType": "Private",
+    "size": "1,001-5,000 (est.)",
+    "revenueConfidence": "Med",
+    "link": "https://job-boards.greenhouse.io/bamboohr17/jobs/5602050004",
+    "shortDescription": "- Define architectural vision for a scalable, secure SaaS platform.\n- Lead AI/ML systems with governance, model lifecycle, and responsible AI.\n- Drive architecture modernization and platform-level technology investments.\n- Establish standards, policies, and cross-functional architecture alignment.",
+    "fitRationale": "- Chief architect mandate aligns with your enterprise architecture background.\n- Responsible AI + governance emphasis matches your trust-at-scale narrative.\n- SaaS platform modernization fits your platform strategy expertise.",
+    "roleType": "Chief Architect",
+    "topPick": false,
+    "id": "gh_464afece9417",
+    "addedDate": "2026-03-08"
+  },
+  {
     "company": "Overstory",
     "title": "Chief Technology Officer",
     "location": "Remote (EU/US time zones)",
@@ -75,18 +120,33 @@
     "addedDate": "2026-03-07"
   },
   {
-    "company": "Wizard",
-    "title": "Senior Director, Data Platform & Engineering",
+    "company": "Modus Create",
+    "title": "Senior Director Software Engineering",
     "location": "Remote (USA)",
     "companyType": "Private",
-    "size": "Unknown",
+    "size": "501-1,000 (est.)",
     "revenueConfidence": "Low",
-    "link": "https://job-boards.greenhouse.io/wizardcommerce/jobs/5753768004",
-    "shortDescription": "- Own the design, evolution, and reliability of Wizard’s Spark-based data platform.\n- Set standards for correctness, performance, and cost efficiency across data systems.\n- Architect and review production PySpark pipelines and data quality frameworks.\n- Enable AI-driven personalization and ranking with scalable data infrastructure.",
-    "fitRationale": "- Data platform leadership with AI enablement maps to your enterprise AI focus.\n- Emphasis on reliability and data quality aligns with trust-at-scale positioning.\n- Hands-on architecture scope fits your chief architect + platform leadership profile.",
-    "roleType": "Sr Director (Data Platform)",
+    "link": "https://boards.greenhouse.io/moduscreate/jobs/7641402003",
+    "shortDescription": "- Lead and scale a global engineering organization delivering enterprise platforms.\n- Drive cloud-native modernization and technical excellence across engagements.\n- Partner with product, data, and AI teams on integrated solutions.\n- Shape delivery frameworks and engineering best practices at scale.",
+    "fitRationale": "- Enterprise platform modernization aligns with your architecture leadership.\n- Cross-functional data/AI collaboration matches your platform + AI focus.\n- Executive-scale team leadership maps to your senior engineering scope.",
+    "roleType": "Sr Director (Software Engineering)",
     "topPick": false,
-    "id": "gh_0e573e828fe3",
-    "addedDate": "2026-03-07"
+    "id": "gh_4a0a08d80826",
+    "addedDate": "2026-03-08"
+  },
+  {
+    "company": "Modus Create",
+    "title": "Senior Director - Data Engineering & Machine Learning",
+    "location": "Remote (USA)",
+    "companyType": "Private",
+    "size": "501-1,000 (est.)",
+    "revenueConfidence": "Low",
+    "link": "https://boards.greenhouse.io/moduscreate/jobs/7636532003",
+    "shortDescription": "- Lead a global data & ML practice building cloud-native data platforms.\n- Define AI/ML strategy, MLOps, and DataOps standards across engagements.\n- Architect modern data stacks (Snowflake/Databricks/Kafka/Airflow).\n- Guide pre-sales and enterprise data transformation programs.",
+    "fitRationale": "- Data platform + ML strategy leadership aligns with your AI data platform focus.\n- Governance and standards emphasis aligns with your trust-at-scale themes.\n- Enterprise transformation scope maps to your architecture and platform leadership.",
+    "roleType": "Sr Director (Data/ML)",
+    "topPick": false,
+    "id": "gh_7c2af2cba7f3",
+    "addedDate": "2026-03-08"
   }
 ]
