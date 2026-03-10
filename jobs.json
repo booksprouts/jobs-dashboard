@@ -12,7 +12,7 @@
     "roleType": "VP Engineering",
     "topPick": true,
     "id": "sr_a281487fee08",
-    "addedDate": "2026-03-09"
+    "addedDate": "2026-03-10"
   },
   {
     "company": "Strategy (MicroStrategy)",
@@ -25,9 +25,9 @@
     "shortDescription": "- Define enterprise architecture roadmap, governance, and reference architectures.\n- Lead multi-cloud strategy, DevSecOps, observability, and modernization.\n- Architect AI/BI platforms with Snowflake/Databricks and data pipelines.\n- Drive systems design across backend platforms and React/TypeScript frontends.",
     "fitRationale": "- Enterprise architecture + AI/BI scope mirrors your Chief Architect profile.\n- Multi-cloud modernization and governance align with trust-at-scale themes.\n- Data platform leadership maps to your enterprise AI data platform focus.",
     "roleType": "VP / Chief Architect",
-    "topPick": true,
+    "topPick": false,
     "id": "sr_edb4543026d2",
-    "addedDate": "2026-03-09"
+    "addedDate": "2026-03-10"
   },
   {
     "company": "Sony Interactive Entertainment (PlayStation)",
@@ -42,7 +42,7 @@
     "roleType": "Sr Director (Data Platform)",
     "topPick": true,
     "id": "gh_c935429dc2c2",
-    "addedDate": "2026-03-09"
+    "addedDate": "2026-03-10"
   },
   {
     "company": "Sony Interactive Entertainment (PlayStation)",
@@ -57,7 +57,7 @@
     "roleType": "Sr Director (Data Engineering)",
     "topPick": false,
     "id": "gh_0d0636f5dac2",
-    "addedDate": "2026-03-09"
+    "addedDate": "2026-03-10"
   },
   {
     "company": "Coupang",
@@ -69,9 +69,84 @@
     "link": "https://job-boards.greenhouse.io/coupang/jobs/7361541",
     "shortDescription": "- Define the long-term vision and roadmap for AI infrastructure orchestration.\n- Lead platform engineering teams building training-to-inference AI platforms.\n- Ensure reliability, security, and compliance for AI infrastructure services.\n- Establish SLOs/KPIs and optimize cost efficiency for AI compute.",
     "fitRationale": "- Large-scale AI infrastructure leadership aligns with your enterprise AI platform focus.\n- Governance, compliance, and SLO ownership match your trust-at-scale positioning.\n- Platform orchestration scope parallels your architecture + platform leadership.",
-    "roleType": "Sr Director (Platform Engineering)",
+    "roleType": "Sr Director (AI Infrastructure)",
     "topPick": false,
     "id": "gh_e18e0406adf7",
-    "addedDate": "2026-03-09"
+    "addedDate": "2026-03-10"
+  },
+  {
+    "company": "Cloudflare",
+    "title": "Engineering Director, Cloudflare One",
+    "location": "London, UK",
+    "companyType": "Public",
+    "size": "5,001-10,000",
+    "revenueConfidence": "High",
+    "link": "https://boards.greenhouse.io/cloudflare/jobs/7670496?gh_jid=7670496",
+    "shortDescription": "- Lead multiple teams delivering customer-facing products in the Cloudflare One SASE suite.\n- Partner with Product to define strategy, goals, and roadmap execution.\n- Drive cross-org initiatives and engineering best practices.\n- Establish metrics and continuous improvement across teams.",
+    "fitRationale": "- SASE platform leadership maps to your secure enterprise platform narrative.\n- Cross-org technical strategy aligns with your Chief Architect experience.\n- Security-focused platform at scale fits trust-at-scale positioning.",
+    "roleType": "Engineering Director (SASE)",
+    "topPick": true,
+    "id": "sr_1eb815c3c836",
+    "addedDate": "2026-03-10"
+  },
+  {
+    "company": "Cloudflare",
+    "title": "Director of Network Deployment Engineering & Infrastructure Operations",
+    "location": "Austin/Atlanta/NYC/Denver/Seattle/DC (US)",
+    "companyType": "Public",
+    "size": "5,001-10,000",
+    "revenueConfidence": "High",
+    "link": "https://boards.greenhouse.io/cloudflare/jobs/7241754?gh_jid=7241754",
+    "shortDescription": "- Lead network engineers, data center engineers, and SREs for global infrastructure operations.\n- Own deployment execution and capacity scaling across the global network.\n- Define KPIs, standardization, automation, and operational excellence programs.\n- Manage vendors, SLAs, and incident response for critical infrastructure.",
+    "fitRationale": "- Global infrastructure leadership aligns with enterprise-scale platform operations.\n- KPI-driven reliability and security map to your governance focus.\n- Scaling mission-critical networks fits trust and resilience themes.",
+    "roleType": "Director (Infrastructure Operations)",
+    "topPick": false,
+    "id": "sr_d5feb5a73e0d",
+    "addedDate": "2026-03-10"
+  },
+  {
+    "company": "MongoDB",
+    "title": "Director of Engineering, Query Optimization",
+    "location": "Dublin, Ireland (Remote eligible)",
+    "companyType": "Public",
+    "size": "5,001-10,000",
+    "revenueConfidence": "High",
+    "link": "https://www.mongodb.com/careers/job/?gh_jid=7592810",
+    "shortDescription": "- Lead engineering managers and staff engineers building MongoDB’s query optimization engine.\n- Drive architecture for distributed query planning, optimization, and execution.\n- Partner with Product and engineering leadership on roadmap delivery.\n- Grow and mentor a global, high-performing systems team.",
+    "fitRationale": "- Core data platform and query-engine scope aligns with your AI data platform focus.\n- Distributed systems leadership supports your context-graph/platform narrative.\n- Cross-org technical leadership fits enterprise-scale architecture experience.",
+    "roleType": "Director (Query Optimization)",
+    "topPick": false,
+    "id": "sr_3a9b1ec1aa98",
+    "addedDate": "2026-03-10"
+  },
+  {
+    "company": "Asana",
+    "title": "Senior Director, Security Engineering",
+    "location": "San Francisco, CA",
+    "companyType": "Public",
+    "size": "1,001-5,000",
+    "revenueConfidence": "High",
+    "link": "https://www.asana.com/jobs/apply/7537141?gh_jid=7537141",
+    "shortDescription": "- Lead Security Engineering across security development, architecture, and corporate security.\n- Define the multi-year security engineering strategy and roadmap.\n- Drive preventive, secure-by-default systems across product and platform.\n- Partner with Product, Engineering, GRC, Legal, and Compliance on trust outcomes.",
+    "fitRationale": "- Security engineering leadership aligns with trust-at-scale positioning.\n- Strategy + roadmap ownership matches enterprise governance expertise.\n- Cross-functional security enablement maps to compliance and assurance themes.",
+    "roleType": "Sr Director (Security Engineering)",
+    "topPick": false,
+    "id": "sr_fb878137bbbc",
+    "addedDate": "2026-03-10"
+  },
+  {
+    "company": "Samsara",
+    "title": "Director, Software Engineering - Routing",
+    "location": "Remote (US)",
+    "companyType": "Public",
+    "size": "1,001-5,000",
+    "revenueConfidence": "High",
+    "link": "https://www.samsara.com/company/careers/roles/7292482?gh_jid=7292482",
+    "shortDescription": "- Lead the engineering organization for routing products from planning to execution.\n- Build real-time optimization and data/AI-driven routing platforms.\n- Scale platform reliability and performance for mission-critical operations.\n- Drive new product bets in the routing ecosystem.",
+    "fitRationale": "- Data/AI platform leadership aligns with your enterprise AI narrative.\n- Real-time optimization and scale match platform engineering strengths.\n- Operational efficiency focus fits governance and trust themes.",
+    "roleType": "Director (Routing Platform)",
+    "topPick": false,
+    "id": "sr_f752d63acbf2",
+    "addedDate": "2026-03-10"
   }
 ]
