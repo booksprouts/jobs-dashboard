@@ -7,12 +7,12 @@
     "size": "10,001+",
     "revenueConfidence": "High",
     "link": "https://jobs.smartrecruiters.com/Visa/744000110894516-vice-president-engineering-open-banking",
-    "shortDescription": "- Lead a 200+ global engineering organization for Visa\u2019s open banking platforms.\n- Own platform strategy, roadmap delivery, security, and compliance at scale.\n- Drive AI-first product development and ML/LLM integration across offerings.\n- Define cloud AI architecture and developer productivity practices.",
+    "shortDescription": "- Lead a 200+ global engineering organization for Visa’s open banking platforms.\n- Own platform strategy, roadmap delivery, security, and compliance at scale.\n- Drive AI-first product development and ML/LLM integration across offerings.\n- Define cloud AI architecture and developer productivity practices.",
     "fitRationale": "- Enterprise-scale payments leadership aligns with your platform and data scope.\n- AI-first and compliance-heavy focus maps to your trust-at-scale narrative.\n- Modernization and open banking strategy align with enterprise AI platform positioning.",
     "roleType": "VP Engineering",
     "topPick": true,
     "id": "sr_a281487fee08",
-    "addedDate": "2026-03-11"
+    "addedDate": "2026-03-12"
   },
   {
     "company": "Strategy (MicroStrategy)",
@@ -27,7 +27,7 @@
     "roleType": "VP / Chief Architect",
     "topPick": false,
     "id": "sr_edb4543026d2",
-    "addedDate": "2026-03-11"
+    "addedDate": "2026-03-12"
   },
   {
     "company": "Sony Interactive Entertainment (PlayStation)",
@@ -37,42 +37,12 @@
     "size": "10,001+",
     "revenueConfidence": "High",
     "link": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5373994004",
-    "shortDescription": "- Define and execute the vision for SIE\u2019s data and AI platform ecosystem.\n- Oversee streaming, ingestion, warehouse, and governance/observability platforms.\n- Ensure scalability, reliability, and cost efficiency for massive data volumes.\n- Lead global teams and drive AI/ML adoption across products.",
+    "shortDescription": "- Define and execute the vision for SIE’s data and AI platform ecosystem.\n- Oversee streaming, ingestion, warehouse, and governance/observability platforms.\n- Ensure scalability, reliability, and cost efficiency for massive data volumes.\n- Lead global teams and drive AI/ML adoption across products.",
     "fitRationale": "- Enterprise-scale data platform leadership aligns with your context-graph strategy.\n- Governance, observability, and security focus map to your trust-at-scale theme.\n- AI/ML adoption at scale mirrors your AI data platform positioning.",
     "roleType": "Sr Director (Data Platform)",
     "topPick": true,
     "id": "gh_c935429dc2c2",
-    "addedDate": "2026-03-11"
-  },
-  {
-    "company": "Cloudflare",
-    "title": "Engineering Director, Cloudflare One",
-    "location": "London, UK",
-    "companyType": "Public",
-    "size": "5,001-10,000",
-    "revenueConfidence": "High",
-    "link": "https://boards.greenhouse.io/cloudflare/jobs/7670496?gh_jid=7670496",
-    "shortDescription": "- Lead multiple teams delivering customer-facing products in the Cloudflare One SASE suite.\n- Partner with Product to define strategy, goals, and roadmap execution.\n- Drive cross-org initiatives and engineering best practices.\n- Establish metrics and continuous improvement across teams.",
-    "fitRationale": "- SASE platform leadership maps to your secure enterprise platform narrative.\n- Cross-org technical strategy aligns with your Chief Architect experience.\n- Security-focused platform at scale fits trust-at-scale positioning.",
-    "roleType": "Engineering Director (SASE)",
-    "topPick": false,
-    "id": "gh_1eb815c3c836",
-    "addedDate": "2026-03-11"
-  },
-  {
-    "company": "Asana",
-    "title": "Senior Director, Security Engineering",
-    "location": "San Francisco, CA",
-    "companyType": "Public",
-    "size": "1,001-5,000",
-    "revenueConfidence": "High",
-    "link": "https://www.asana.com/jobs/apply/7537141?gh_jid=7537141",
-    "shortDescription": "- Lead Security Engineering across security development, architecture, and corporate security.\n- Define the multi-year security engineering strategy and roadmap.\n- Drive preventive, secure-by-default systems across product and platform.\n- Partner with Product, Engineering, GRC, Legal, and Compliance on trust outcomes.",
-    "fitRationale": "- Security engineering leadership aligns with trust-at-scale positioning.\n- Strategy + roadmap ownership matches enterprise governance expertise.\n- Cross-functional security enablement maps to compliance and assurance themes.",
-    "roleType": "Sr Director (Security Engineering)",
-    "topPick": false,
-    "id": "gh_fb878137bbbc",
-    "addedDate": "2026-03-11"
+    "addedDate": "2026-03-12"
   },
   {
     "company": "Databricks",
@@ -87,66 +57,21 @@
     "roleType": "Director (Mosaic AI)",
     "topPick": true,
     "id": "gh_245c667d4d34",
-    "addedDate": "2026-03-11"
+    "addedDate": "2026-03-12"
   },
   {
-    "company": "Figma",
-    "title": "Director, Software Engineering - Product Platform",
-    "location": "US hubs or Remote (US)",
-    "companyType": "Private",
-    "size": "1,001-5,000",
-    "revenueConfidence": "Medium",
-    "link": "https://job-boards.greenhouse.io/figma/jobs/5600388004?gh_jid=5600388004",
-    "shortDescription": "- Lead Product Platform engineering powering realtime collaboration and core infra.\n- Define roadmap and technical strategy for backend + frontend platforms.\n- Build scalable distributed systems and grow managers and senior ICs.",
-    "fitRationale": "- Platform engineering and developer productivity align with your platform focus.\n- Real-time collaboration infrastructure at scale matches enterprise architecture depth.\n- Potential AI/LLM platform work supports your AI governance positioning.",
-    "roleType": "Director (Product Platform)",
-    "topPick": false,
-    "id": "gh_7a9434a58d70",
-    "addedDate": "2026-03-11"
-  },
-  {
-    "company": "Pinterest",
-    "title": "Sr. Director, Engineering - Delivery Infrastructure",
-    "location": "San Francisco, CA; Palo Alto, CA; Seattle, WA",
-    "companyType": "Public",
-    "size": "10,001+",
-    "revenueConfidence": "High",
-    "link": "https://www.pinterestcareers.com/jobs/?gh_jid=7565872",
-    "shortDescription": "- Lead delivery infrastructure for indexing, retrieval, and serving across core + ads.\n- Manage 100+ engineers and set technical strategy for reliability and scale.\n- Modernize serving systems to improve efficiency and developer velocity.",
-    "fitRationale": "- Large-scale delivery infrastructure aligns with your platform/data systems expertise.\n- Reliability and efficiency focus maps to trust-at-scale and governance outcomes.\n- Executive org leadership (100+ engineers) fits your senior leadership profile.",
-    "roleType": "Sr Director (Delivery Infrastructure)",
-    "topPick": false,
-    "id": "gh_9358881f8342",
-    "addedDate": "2026-03-11"
-  },
-  {
-    "company": "Zscaler",
-    "title": "Senior Director, Software Development Engineering",
-    "location": "San Jose, CA (Hybrid)",
+    "company": "Cloudflare",
+    "title": "Engineering Director, Cloudflare One",
+    "location": "London, UK",
     "companyType": "Public",
     "size": "5,001-10,000",
     "revenueConfidence": "High",
-    "link": "https://job-boards.greenhouse.io/zscaler/jobs/5063582007",
-    "shortDescription": "- Lead senior engineering org for the Zscaler Private Access (ZPA) platform.\n- Balance service stability with high-impact feature innovation at global scale.\n- Partner with product and customer teams on roadmap and delivery.",
-    "fitRationale": "- Security platform leadership aligns with secure information management themes.\n- Large-scale network security systems map to trust and compliance focus.\n- Executive engineering leadership fits cross-org governance experience.",
-    "roleType": "Sr Director (Security Platform)",
+    "link": "https://boards.greenhouse.io/cloudflare/jobs/7670496?gh_jid=7670496",
+    "shortDescription": "- Lead multiple teams delivering customer-facing products in the Cloudflare One SASE suite.\n- Partner with Product to define strategy, goals, and roadmap execution.\n- Drive cross-org initiatives and engineering best practices.\n- Establish metrics and continuous improvement across teams.",
+    "fitRationale": "- SASE platform leadership maps to your secure enterprise platform narrative.\n- Cross-org technical strategy aligns with your Chief Architect experience.\n- Security-focused platform at scale fits trust-at-scale positioning.",
+    "roleType": "Engineering Director (SASE)",
     "topPick": false,
-    "id": "gh_01c8c20f2697",
-    "addedDate": "2026-03-11"
-  },
-  {
-    "company": "Robinhood",
-    "title": "Director of Engineering, Trading Products",
-    "location": "Menlo Park, CA or New York, NY",
-    "companyType": "Public",
-    "size": "1,001-5,000",
-    "revenueConfidence": "High",
-    "link": "https://job-boards.greenhouse.io/robinhood/jobs/7022496?gh_jid=7022496",
-    "shortDescription": "- Lead trading products engineering across equities, options, and margins.\n- Define technical and org strategy; scale teams of 50+ engineers.\n- Partner with product, design, compliance, and ops to deliver reliable systems.",
-    "fitRationale": "- Mission-critical financial platforms align with governance and risk controls.\n- Scaling core systems parallels enterprise platform leadership.\n- Cross-functional compliance partnership fits trust-at-scale positioning.",
-    "roleType": "Director (Trading Platform)",
-    "topPick": false,
-    "id": "gh_b3ee54408020",
-    "addedDate": "2026-03-11"
+    "id": "gh_1eb815c3c836",
+    "addedDate": "2026-03-12"
   }
 ]
